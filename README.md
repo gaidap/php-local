@@ -1,12 +1,12 @@
-# php-local
+# php-simple-posts
 This a learning repository for me to learn the syntax, features and do's and dont's of PHP.
 
 You have to specify the following env variables:
 
-- PHP_LOCAL_DB_HOST
-- PHP_LOCAL_DB_USER
-- PHP_LOCAL_DB_PASSWORD
-- PHP_LOCAL_DB_NAME
+- DB_HOST
+- DB_USER
+- DB_PASSWORD
+- DB_NAME
 
 The schema is not auto created yet. This app will need the following table:
 
